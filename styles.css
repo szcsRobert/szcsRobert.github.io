@@ -1,3 +1,8 @@
+
+svg {
+    color: #00ff00;
+}
+
 nav {
     background-color: #333333;
     text-align: justify;
@@ -40,7 +45,7 @@ h3 {
 }
 
 p {
-    font-size: 15px;
+    font-size: 20px;
     line-height: 20px;
     margin-top: 0;
     text-align: justify;
@@ -62,16 +67,16 @@ p {
 
 .aboutme h1 {
     font-weight: bold;
-    font-size: 40px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
 .aboutme h2 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .technology h1 {
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
 }
 
