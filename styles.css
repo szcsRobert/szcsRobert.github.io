@@ -19,7 +19,7 @@ body {
     float: right;
     display: block;
     padding: 20px;
-    font-size: 20px;
+    font-size: 10px;
     font-weight: 500;
     margin: 0 10px;
     text-transform: uppercase;
@@ -27,27 +27,27 @@ body {
 
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 25px;
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 15px;
     margin-bottom: 5px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 10px;
     line-height: 35px;
     margin-top: 0;
     text-align: justify;
 }
 
 .break {
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bolder;
     text-align: center;
     margin: 20px 600px 20px 600px;
@@ -62,16 +62,16 @@ p {
 
 .aboutme h1 {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
 .aboutme h2 {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .technology h1 {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 
