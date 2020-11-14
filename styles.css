@@ -19,7 +19,7 @@ body {
     float: right;
     display: block;
     padding: 20px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     margin: 0 10px;
     text-transform: uppercase;
@@ -27,21 +27,21 @@ body {
 
 
 h1 {
-    font-size: 35px;
-}
-
-h2 {
     font-size: 30px;
 }
 
+h2 {
+    font-size: 25px;
+}
+
 h3 {
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 5px;
 }
 
 p {
-    font-size: 20px;
-    line-height: 25px;
+    font-size: 15px;
+    line-height: 20px;
     margin-top: 0;
     text-align: justify;
 }
@@ -50,7 +50,7 @@ p {
     font-size: 30px;
     font-weight: bolder;
     text-align: center;
-    margin: 20px 600px 20px 600px;
+    margin: 15px 600px 15px 600px;
 }
 
 #logo {
@@ -62,16 +62,16 @@ p {
 
 .aboutme h1 {
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
 .aboutme h2 {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .technology h1 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
 }
 
